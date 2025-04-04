@@ -25,6 +25,6 @@ Bem-vindo ao meu perfil. ♟
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PHBmarques&show_icons=true&theme=dark)
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PHBmarques&layout=compact&langs_count=8&card_width=200&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PHBmarques&layout=compact&langs_count=8&card_width=200&theme=dracula" />
 </a>
 
