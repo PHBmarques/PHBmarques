@@ -24,5 +24,5 @@ Bem-vindo ao meu perfil. ♟
 <a href = "mailto:pedrohenriquebernardo801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PHBmarques&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHBmarques)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHBmarques)](https://github.com/PHBmarques/github-readme-stats)
 
