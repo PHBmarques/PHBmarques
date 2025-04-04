@@ -24,10 +24,7 @@ Bem-vindo ao meu perfil. ♟
 <a href = "mailto:pedrohenriquebernardo801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PHBmarques&show_icons=true&theme=dark)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PHBmarques&layout=compact&langs_count=8&card_width=320" />
 </a>
 
